@@ -1,0 +1,11 @@
+D:\Pon Project\ApiProject\ApiProject\bin\Debug\netcoreapp2.0\ApiProject.deps.json
+D:\Pon Project\ApiProject\ApiProject\bin\Debug\netcoreapp2.0\ApiProject.runtimeconfig.json
+D:\Pon Project\ApiProject\ApiProject\bin\Debug\netcoreapp2.0\ApiProject.runtimeconfig.dev.json
+D:\Pon Project\ApiProject\ApiProject\bin\Debug\netcoreapp2.0\ApiProject.dll
+D:\Pon Project\ApiProject\ApiProject\obj\Debug\netcoreapp2.0\ApiProject.csprojAssemblyReference.cache
+D:\Pon Project\ApiProject\ApiProject\obj\Debug\netcoreapp2.0\ApiProject.csproj.CoreCompileInputs.cache
+D:\Pon Project\ApiProject\ApiProject\obj\Debug\netcoreapp2.0\ApiProject.AssemblyInfoInputs.cache
+D:\Pon Project\ApiProject\ApiProject\obj\Debug\netcoreapp2.0\ApiProject.AssemblyInfo.cs
+D:\Pon Project\ApiProject\ApiProject\bin\Debug\netcoreapp2.0\ApiProject.pdb
+D:\Pon Project\ApiProject\ApiProject\obj\Debug\netcoreapp2.0\ApiProject.dll
+D:\Pon Project\ApiProject\ApiProject\obj\Debug\netcoreapp2.0\ApiProject.pdb
